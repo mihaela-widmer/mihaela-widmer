@@ -11,5 +11,5 @@ MSc Mathematics & Computer Science · BWL Institut Basel · Liestal, Switzerland
 - 💹 [Financial Variance Model](https://github.com/mihaela-widmer/financial-variance-model) — Budget vs Actual, Excel export, Python
 - 📊 [Interactive Sales Dashboard](https://github.com/mihaela-widmer/sales-intelligence-dashboard) — Live BI dashboard, Chart.js, no Power BI needed
 
-📫 mihaela.widmer@email.com | [LinkedIn](https://linkedin.com/in/mihaela-widmer-6955b7273)
+📫 widmer.mihaela@gmx.ch | [LinkedIn](https://linkedin.com/in/mihaela-widmer-6955b7273)
 ---
